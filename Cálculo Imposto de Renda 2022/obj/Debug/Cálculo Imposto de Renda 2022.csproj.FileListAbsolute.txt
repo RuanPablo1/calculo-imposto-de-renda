@@ -1,0 +1,8 @@
+C:\Users\PICHAU\Desktop\Projetos C#\Cálculo Imposto de Renda 2022\Cálculo Imposto de Renda 2022\bin\Debug\Cálculo Imposto de Renda 2022.exe.config
+C:\Users\PICHAU\Desktop\Projetos C#\Cálculo Imposto de Renda 2022\Cálculo Imposto de Renda 2022\bin\Debug\Cálculo Imposto de Renda 2022.exe
+C:\Users\PICHAU\Desktop\Projetos C#\Cálculo Imposto de Renda 2022\Cálculo Imposto de Renda 2022\bin\Debug\Cálculo Imposto de Renda 2022.pdb
+C:\Users\PICHAU\Desktop\Projetos C#\Cálculo Imposto de Renda 2022\Cálculo Imposto de Renda 2022\obj\Debug\Cálculo Imposto de Renda 2022.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\Projetos C#\Cálculo Imposto de Renda 2022\Cálculo Imposto de Renda 2022\obj\Debug\Cálculo Imposto de Renda 2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\PICHAU\Desktop\Projetos C#\Cálculo Imposto de Renda 2022\Cálculo Imposto de Renda 2022\obj\Debug\Cálculo Imposto de Renda 2022.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Projetos C#\Cálculo Imposto de Renda 2022\Cálculo Imposto de Renda 2022\obj\Debug\Cálculo Imposto de Renda 2022.exe
+C:\Users\PICHAU\Desktop\Projetos C#\Cálculo Imposto de Renda 2022\Cálculo Imposto de Renda 2022\obj\Debug\Cálculo Imposto de Renda 2022.pdb

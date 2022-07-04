@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cálculo Imposto de Renda 2022", "Cálculo Imposto de Renda 2022\Cálculo Imposto de Renda 2022.csproj", "{75C8BF50-8EBC-4885-A6E8-00E9996D2DFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75C8BF50-8EBC-4885-A6E8-00E9996D2DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75C8BF50-8EBC-4885-A6E8-00E9996D2DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75C8BF50-8EBC-4885-A6E8-00E9996D2DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75C8BF50-8EBC-4885-A6E8-00E9996D2DFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AD460B2-6399-4F55-AE60-44361B74CBB4}
+	EndGlobalSection
+EndGlobal
